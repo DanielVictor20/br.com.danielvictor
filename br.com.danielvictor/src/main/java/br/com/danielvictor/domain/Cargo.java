@@ -2,6 +2,7 @@ package br.com.danielvictor.domain;
 
 import javax.persistence.*;
 
+
 @SuppressWarnings("serial")
 @Entity
 @Table(name = "CARGOS")

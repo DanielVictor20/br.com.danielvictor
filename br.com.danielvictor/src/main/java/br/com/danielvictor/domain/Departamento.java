@@ -2,6 +2,7 @@ package br.com.danielvictor.domain;
 
 import java.util.List;
 
+
 import javax.persistence.*;
 
 @SuppressWarnings("serial")
